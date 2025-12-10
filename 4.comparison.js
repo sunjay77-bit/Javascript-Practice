@@ -20,4 +20,29 @@
 
 // ---
 
-console.log("2" == 2);
+// console.log("2" == 2);
+
+// let sanjay = 123
+// {
+//     sanjay = 234
+//     console.log(sanjay); // Let Block Scope
+    
+// }
+
+// console.log(sanjay);
+
+// const sanjay = 123;
+// {
+// const sanjay = 234;
+//   console.log(sanjay); // const Block Scope
+// }
+
+// console.log(sanjay);
+
+var sanjay = 123;
+{
+  var sanjay = 234;
+  console.log(sanjay); // VAR Block Scope
+}
+
+console.log(sanjay);
