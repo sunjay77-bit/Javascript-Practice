@@ -1,2 +1,2 @@
-# Java-script-Practice
+# Javascript-Practice
 A code repo for java script 
